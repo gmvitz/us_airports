@@ -1,2 +1,4 @@
 # us_airports
-tidytuesday us airports data analysis
+## Tidytuesday US Airports Data Analysis
+
+Data pulled from [tidytuesday github](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018-09-18).
